@@ -1,0 +1,27 @@
+# SQL database projects (TechVille Municipal System, System Monitoring System)
+
+# ---------- Local SQL Server / DB files ----------
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.bacpac
+*.sqlite
+*.db
+
+# ---------- SSMS / Azure Data Studio ----------
+*.ssmssln
+*.ssmssqlproj
+.ads/
+
+# ---------- Logs / archives ----------
+*.log
+*.zip
+*.rar
+# ---------- OS / editor junk ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.vscode/
